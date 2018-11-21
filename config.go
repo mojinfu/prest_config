@@ -7,11 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/agilab/kefu_prest_be/resource"
 	"github.com/nuveo/log"
 	"github.com/prest/adapters"
 	"github.com/spf13/viper"
-
-	"github.com/agilab/kefu_prest_be/resource"
 )
 
 // TablesConf informations
